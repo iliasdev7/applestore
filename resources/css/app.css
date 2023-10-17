@@ -1,0 +1,76 @@
+@import url('bootstrap/dist/css/bootstrap.css');
+@import url('style.css');
+
+* {
+    font-family: 'Rubik', sans-serif;
+    
+}
+body {
+        overflow-x: hidden; /* This will prevent horizontal scrolling */
+      }
+
+.title {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+
+.btn {
+    margin-top: 20px;
+}
+.form {
+    width: 100%;
+    height:100%;
+    border: 2px solid rgb(255, 255, 255) ;
+    
+    
+    
+}
+.title2 {
+    font-size: 50px;
+}
+.container2 {
+    margin-top: 20%;
+}
+.imgAbouUs {
+    margin-right: 90px;
+    height: 50vh;
+    width: 50vw;
+    border-radius: 7px;
+    margin-left: 30%;
+}
+.must{
+    height: 20vh;
+    margin-bottom:10%;
+    background-image: url('https://images.unsplash.com/photo-1692639969478-a0dad77774c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80');
+    background-size: cover;
+}
+
+.hr{
+    width: 2900px;
+}
+
+.apple{
+    height: 30px;
+    margin-left: 40px;
+}
+.mustText{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    letter-spacing: 10px;
+}
+
+.navbarFixed{
+    background-color: #ffffff;
+}
+
+.authBtn{
+    margin-left: 50px ;
+
+}
+
+     
+
